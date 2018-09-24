@@ -11,7 +11,7 @@ repositories {
   }
 }
 
-compile 'com.techhelper.permission.handler:AndroidPermissionHandler:1.0.0'
+implementation 'com.techhelper.permission.handler:AndroidPermissionHandler:1.0.0'
 ```
 
 ## Steps to use this library
