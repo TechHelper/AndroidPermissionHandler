@@ -3,6 +3,8 @@
 
 Request single or multiple permissions in activity or fragment at run time without any hassles.
 
+![alt text](https://github.com/TechHelper/AndroidPermissionHandler/blob/master/app/Permission%20screenshot.jpg)
+
 ## Gradle dependency
 ```
 allprojects {
